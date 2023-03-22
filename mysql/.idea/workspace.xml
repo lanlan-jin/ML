@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b859623-1f5d-4023-8ad3-de351b7b22be" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../gurobi/![](2022-10-03-15-41-25.png).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-02-12-32-17.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-02-22-17-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-02-22-18-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-02-22-19-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-02-22-20-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-25-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-39-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-41-25.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-50-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-57-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-57-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-58-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-58-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-58-38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-58-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-59-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-15-59-54.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-00-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-00-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-00-33.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-01-15.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-02-20.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-02-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-04-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-04-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-04-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-04-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-05-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-05-21.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-06-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-06-22.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-06-31.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-03-16-07-50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-16-32-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-16-44-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-16-52-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-17-44-49.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-19-44-12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-19-48-37.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-19-50-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-19-57-52.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-20-04-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/2022-10-04-20-06-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass1/课程一 Gurobi 基本操作.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass1/课程一 Gurobi 基本操作.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/MultiAssignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/Piecewise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/SolutionPool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/net12.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/params.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/poolsearch.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/tune.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/课程二 Gurobi 功能和操作进阶.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass2/课程二 Gurobi 功能和操作进阶.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass3/RINS heuristic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass3/课程三 Gurobi 高级操作和使用方法.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass3/课程三 Gurobi 高级操作和使用方法.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/ATP/ATP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/ATP/ATP数据.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/ATP/ATP方案.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/PDPTW/PDPTW.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/PDPTW/PDPTW数据.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/PDPTW/PDPTW方案.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/课程六 Gurobi 供应链物流案例(第二讲).mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/GurobiClass6/课程六 Gurobi 供应链物流案例(第二讲).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/Gurobi学习指南.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/Gurobi学习指南.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/Gurobi学习指南.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/3d_tic_tac_toe/3d_tic_tac_toe.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/3d_tic_tac_toe/3d_tic_tac_toe.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/3d_tic_tac_toe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/cell_tower_coverage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/cell_tower_coverage/cell_tower.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/cell_tower_coverage/cell_tower.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/customer_assignment/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/customer_assignment/customer_assignment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/customer_assignment/customer_assignment.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/electrical_power_generation_1_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/electrical_power_generation_1_2/electrical_power2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/electrical_power_generation_1_2/electrical_power2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/electrical_power_generation_1_2/electrical_power_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/electrical_power_generation_1_2/electrical_power_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/electrical_power_generation_1_2/junk.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/facility_location/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/facility_location/facility_location.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/facility_location/facility_location.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/factory_planning_1_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/factory_planning_1_2/factory_planning_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/factory_planning_1_2/factory_planning_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/factory_planning_1_2/factory_planning_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/factory_planning_1_2/factory_planning_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/farm_planning/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/farm_planning/farm_planning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/farm_planning/farm_planning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/food_manufacturing_1_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/food_manufacturing_1_2/food_manufacture_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/food_manufacturing_1_2/food_manufacture_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/food_manufacturing_1_2/food_manufacture_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/food_manufacturing_1_2/food_manufacture_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/RAP.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/RAP_lp.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/decision_variables.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/introduction_to_modeling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/introduction_to_modeling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/jobs_constraints.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/matching_score_data.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/objective_function.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/intro_to_modeling/resource_constraints.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/linear_regression/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/linear_regression/l0_regression.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/linear_regression/l0_regression.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/manpower_planning/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/manpower_planning/manpower_planning.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/manpower_planning/manpower_planning.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/marketing_campaign_optimization/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/marketing_campaign_optimization/marketing_campaign_optimization.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/marketing_campaign_optimization/marketing_campaign_optimization.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/marketing_campaign_optimization/operational.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/marketing_campaign_optimization/operationalB.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/marketing_campaign_optimization/tactical.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/mining/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/mining/mining.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/mining/mining.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/offshore_wind_farming/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/offshore_wind_farming/offshore_wind_farming.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/offshore_wind_farming/offshore_wind_farming.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/pooling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/pooling/rehfeldt_tisljar2_graph.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/pooling/rehfeldt_tisljar2_table.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/pooling/std_pooling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/pooling/std_pooling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/refinery/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/refinery/refinery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/refinery/refinery.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/supply_network_design_1_2/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/supply_network_design_1_2/supply_network_design_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/supply_network_design_1_2/supply_network_design_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/supply_network_design_1_2/supply_network_design_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/supply_network_design_1_2/supply_network_design_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/technician_routing_scheduling/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/technician_routing_scheduling/TRS0.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/technician_routing_scheduling/data-Sce0.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/technician_routing_scheduling/data-Sce3.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/technician_routing_scheduling/technician_routing_scheduling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/technician_routing_scheduling/technician_routing_scheduling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/traveling_salesman/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/traveling_salesman/capitals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/traveling_salesman/tsp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/traveling_salesman/tsp.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/workforce/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/workforce/workforce.lp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/workforce/workforce_scheduling.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/modeling-examples-master/workforce/workforce_scheduling.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/复杂路线规划/How To Synchronize Complex Routing Operations (Synched VRPs) with Gurobi.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gurobi/复杂路线规划/Syncronized-VRPs-baobad-and-Gurobi.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-09-15-46-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-09-45-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-10-35-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-10-35-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-10-39-40.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-10-43-46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-10-45-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-10-46-58.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-10-48-47.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-01-24.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-01-55.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-07-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-09-23.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-12-42.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-12-59.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-16-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-17-00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/2022-10-10-11-59-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/优化模型.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/运筹优化.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../数学模型/运筹优化.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-01-30-09-01-39.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-01-30-11-15-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-02-06-12-28-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-02-06-12-28-44.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-02-07-11-31-43.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-02-07-11-37-34.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-02-07-11-38-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-02-07-11-54-56.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/2023-02-07-11-58-51.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../机器学习/知识点.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.idea/练习.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.ipynb_checkpoints/TSP-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.ipynb_checkpoints/旅行商问题-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/.ipynb_checkpoints/未命名-checkpoint.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/5.16每日阶梯采购成本.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/TSP.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/TSP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/allcation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/allcation_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/mc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/shudu.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/shudu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/spam.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/垃圾短信分类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/工件分配问题数据.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/旅行商问题.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/未命名.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/毛猪采购.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../练习/调度.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2N5QvTun28IklqCpGOkagPLG6Fe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenDatabaseViewOnStart": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/flk"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
